@@ -26,6 +26,7 @@ list_of_files = [
     f"{project}/pipeline/predictions_pipeline.py",
     f"{project}/utils/__init__.py",
     f"{project}/utils/main_utils.py",
+    "experiment/experiment.ipynb",
     "app.py",
     "requirements.txt",
     "Dockerfile",
